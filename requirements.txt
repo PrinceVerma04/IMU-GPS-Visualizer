@@ -1,0 +1,8 @@
+Dependency in your project
+pandas
+matplotlib
+seaborn
+-------.gitignore (To prevent unnecessary files from being committed)-----
+*.csv
+*.png
+__pycache__/
