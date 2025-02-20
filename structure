@@ -1,1 +1,12 @@
-
+IMU-GPS-Visualizer/
+│── data/               # Store CSV files
+│   ├── Location.csv
+│   ├── Accelerometer.csv
+│   ├── Gyroscope.csv
+│── plots/              # Store generated plots (optional)
+│   ├── .gitkeep        # Keeps the folder in GitHub
+│── scripts/            # Python script to process data
+│   ├── imu_gps_plot.py
+│── README.md           # Project Documentation
+│── requirements.txt    # Required Python libraries
+│── .gitignore          # Ignore unnecessary files
