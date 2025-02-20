@@ -1,2 +1,20 @@
 # IMU-GPS-Visualizer
-This repository contains IMU and GPS data collected using a mobile application. The data is processed and visualized using [your chosen programming language, e.g., Python/Matplotlib]. Includes scripts for plotting accelerometer, gyroscope, and GPS data, along with key observations.
+This project visualizes IMU (Accelerometer & Gyroscope) and GPS data collected from a mobile device. The script reads CSV files, processes the data, and generates visual plots for better understanding.
+
+📂 Project Structure:
+
+data/ → Contains collected IMU and GPS data in CSV format.
+scripts/ → Python script for data processing and visualization.
+plots/ → Stores generated plots of the data (optional).
+
+Installation:
+1.Clone this Repo
+git clone https://github.com/yourusername/IMU-GPS-Data-Visualization.git
+cd IMU-GPS-Data-Visualization
+
+2.Install Dependency
+pip install -r requirements.txt
+
+3.Run the Script
+python scripts/imu_gps_plot.py
+
