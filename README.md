@@ -9,8 +9,7 @@ plots/ → Stores generated plots of the data (optional).
 
 Installation:
 1.Clone this Repo
-git clone https://github.com/PrinceV-hub/IMU-GPS-Data-Visualization.git
-cd IMU-GPS-Data-Visualization
+git clone https://github.com/PrinceV-hub/IMU-GPS-Visualizer.git
 
 2.Install Dependency
 pip install -r requirements.txt
